@@ -10,7 +10,7 @@
 <header class="header1"> <!-- class="control " provides the class name for styling the header and footer themes of the webpages, giving the pages a uniform look -->
 
     <section class="left"> <!--<section class="left" aligns section content to the left side of the header -->
-        <h2>Playmate</h2>
+        <h2>Travel Community</h2>
     </section>
 
     <section class="right"> <!-- <section class="right" aligns section content to the right side of the header -->
