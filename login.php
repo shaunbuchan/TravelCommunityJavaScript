@@ -6,7 +6,7 @@ if ($_POST['loginButton']) {
     $password = strip_tags($_POST['password']);
     // $pass= md5($password);
 
-    $query = "SELECT *  FROM host where username = '$username' AND password ='$password' LIMIT 1 ";
+    $query = "SELECT *  FROM Host where username = '$username' AND password ='$password' LIMIT 1 ";
     $result = mysqli_query($conn, $query);
     if(mysqli_num_rows($result)==1){
         $_SESSION['username'] = $username;
