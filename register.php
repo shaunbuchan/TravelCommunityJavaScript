@@ -1,9 +1,9 @@
 <?php
 session_start();
 include_once('Connection.php');
-$username = strip_tags($_POST['username']);
-$email = strip_tags($_POST['email']);
-$password = strip_tags($_POST['password']);
+$username = $_POST['username'];
+$email = $_POST['email'];
+$password = $_POST['password'];
 // $pass= md5($password);
 
 $query = "INSERT INTO Host(username, email, password) 
