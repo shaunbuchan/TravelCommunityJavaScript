@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <title>Sign-Up</title>
     <link rel="stylesheet" href="CSS/style.css">
-    <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
-    <script src="usingAjax"
+    <script src="https://code.jquery.com/jquery-migrate-1.4.1.js"></script>
+
 </head>
 <body>
 
