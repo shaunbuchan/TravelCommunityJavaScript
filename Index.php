@@ -57,7 +57,17 @@
 
 
 
-<script type="text/javascript">
+
+</main>
+<!-- Main Ends -->
+
+
+
+
+</body>
+</html>
+
+<script>
     //RETRIEVE ALL INPUT TEXT OBJECTS
     var username = document.forms["vform"]["username"];
     var email = document.forms["vform"]["email"];
@@ -118,16 +128,7 @@
             password2.style.border = "1px solid red";
             password_error.innerHTML = "The two passwords do not match";
             return false;
-            }
         }
     }
-    </script>
-
-</main>
-<!-- Main Ends -->
-
-
-
-
-</body>
-</html>
+    }
+</script>
