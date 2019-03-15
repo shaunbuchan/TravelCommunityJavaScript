@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <title>Sign-Up</title>
     <link rel="stylesheet" href="CSS/style.css">
+    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
 </head>
 <body>
 
