@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <title>Sign-Up</title>
     <link rel="stylesheet" href="CSS/style.css">
-    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="usingAjax"
 </head>
 <body>
 
